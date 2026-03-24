@@ -1,3 +1,8 @@
 #!/usr/bin/python3
-Concept introduced
-Defining a bare Python class with the pass keyword.
+"""Module for Rectangle class."""
+ 
+ 
+class Rectangle:
+    """An empty Rectangle class."""
+    pass
+ 
